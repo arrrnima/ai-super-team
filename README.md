@@ -4,7 +4,7 @@
 
 ---
 
-## Deploy in 15 minutes (free)
+## Deploy in 15 minutes
 
 ### What you need
 - A free [GitHub](https://github.com) account
